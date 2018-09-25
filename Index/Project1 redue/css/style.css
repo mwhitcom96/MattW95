@@ -1,0 +1,53 @@
+body {
+	padding: 0;
+	margin: 0;
+	background-color: #EBEDFE;
+}
+div {
+	display: inline;
+}
+
+.center {
+	display: block;
+	padding-top: auto;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50vw;
+}
+h1 {
+	font-size: 40px;
+	font-family: impact, charcoal, sans-serif;
+	font-weight: 900;
+}
+p {
+	border: 4px solid black;
+	font-family: impact, charcoal, sans-serif;
+}
+img {
+	width: 50vw;
+}
+/*.image1 {
+	position: absolute;
+	top: 1000px;
+	left: 500px;
+}
+.image2 {
+	position: absolute;
+	top: 1000px;
+	left: 500px;
+}
+.image3 {
+	position: absolute;
+	top: 1000px;
+	left: 500px;
+}
+.image4 {
+	position: absolute;
+	top: 1000px;
+	left: 500px;
+}
+.image5 {
+	position: absolute;
+	top: 1000px;
+	left: 500px;
+}*/
