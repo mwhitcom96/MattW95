@@ -4,7 +4,7 @@ body {
 	margin: 0;
 }
 h1 {
-
+	font-family: 'Black Ops One', cursive;
 }
 h2 {
 
@@ -14,5 +14,4 @@ p {
 }
 h6 {
 	font-family: 'Press Start 2P', cursive;
-
 }
