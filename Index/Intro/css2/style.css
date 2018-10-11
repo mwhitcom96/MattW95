@@ -1,0 +1,55 @@
+h3 {
+	font-family: 'VT323', monospace;
+	font-size: 100px;
+	letter-spacing: 1em;
+	text-align: center;
+	color: pink;
+	position: absolute;
+	left: 50px;
+}
+h6 {
+	font-family: 'Press Start 2P', cursive;
+	text-align: center;
+	font-size: 20px;
+	letter-spacing: em;
+	position: relative;
+	border: ;
+	vertical-align: bottom;
+	top: ;
+	bottom: 20px;
+	right: 20px;
+	color: pink;
+}
+h4 {
+	font-family: 'Press Start 2P', cursive;
+	text-align: center;
+	font-size: 20px;
+	position: relative;
+	border: 5px solid white;
+	top: 300px;
+}
+a:link {
+	color: black;
+}
+a:visited {
+	color: pink;
+} 
+a:hover {
+	color: white;
+}
+a:active{
+	color: pink;
+}
+.bg {
+	background-size: cover;
+	background-image: url(../image/pixel.gif);
+}
+.box {
+	width: 1050px;
+	height: 400px;
+	top: 350px;
+	left: 750px;
+	background-color: darkred;
+	box-shadow: 5px 10px;
+	position: absolute;
+}

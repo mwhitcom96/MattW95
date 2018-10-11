@@ -1,0 +1,39 @@
+body{
+	padding: 100px;
+	margin: 100px;
+}
+h1 {
+	text-align: center;
+	font-family: 'Anton', sans-serif;
+	letter-spacing: 1em;
+}
+h2 {
+	text-align: center;
+	font-family: 'Fahkwang', sans-serif;
+}
+p {
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;	
+}
+.bg {
+	position: absolute;
+	top: 300px;
+	width: 500px;
+	height: 200px;
+	left: 1000px;
+}
+.box {
+	position: absolute;
+	width: 500px;
+	height: 100px;
+	top: 450px;
+	left: 650px;
+	transform: rotate(-90deg);
+}
+.box2 {
+	position: fixed;
+	width: 200px;
+	height: 100px;
+	left: 850px;
+	transform: rotate(-90deg);
+}

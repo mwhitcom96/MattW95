@@ -1,0 +1,28 @@
+body {
+	background-color: black;
+}
+h1 {
+	font-size: 100px;
+	color: white;
+}
+h2 {
+	font-size: 40px;
+	color: white;
+}
+p {
+	font-size: 50px;
+	color: white;
+}
+.bg {
+	width: 550px;
+	height: 500px;
+}
+.box {
+	top: 200px;
+	left: 300px;
+	position: fixed;
+	transform: rotate(90deg);
+}
+.box2 {
+
+}

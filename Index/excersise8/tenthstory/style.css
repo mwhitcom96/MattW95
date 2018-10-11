@@ -1,0 +1,26 @@
+h1 {
+	font-size: 55px;
+}
+h2 {
+	font-size: ;
+}
+p {
+	font-size: 35px;
+}
+.bg {
+	width: 400px;
+	height: 500px;
+}
+.box {
+	position: fixed;
+	width: 830px;
+	height: 200px;
+	top: 90px;
+	left: 400px;
+}
+.box2 {
+	position: absolute;
+	top: 130px;
+	left: 1145px;
+	transform: rotate(90deg);
+}

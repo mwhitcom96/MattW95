@@ -1,0 +1,27 @@
+h1 {
+	font-size: 50px;
+}
+h2 {
+	font-size: 18px;
+}
+p {
+	font-size: 12px;
+}
+.bg {
+	width: 300px;
+	height: 400px;
+	position: fixed;
+	top: 150px;
+	left: 350px;
+}
+.box {
+	width: 300px;
+	height: 400px;
+	position: ;
+}
+.box2 {
+	top: 250px;
+	width: 100px;
+	height: 200px;
+	position: absolute;
+}

@@ -1,0 +1,28 @@
+body {
+	background-color: black;
+}
+h1 {
+	font-family: 'Black Ops One', cursive;
+	font-size: 200px;
+	text-align: center;
+	color: pink;
+}
+h2 {
+	font-family: 'Cairo', sans-serif;
+	font-size: 11px;
+	text-align: center;
+	color: white;
+
+}
+a:link {
+	color: black;
+}
+a:visited {
+	color: pink;
+}
+a:hover {
+	color: white;
+}
+a:active {
+	color: hotpink;
+}
