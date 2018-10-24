@@ -1,0 +1,116 @@
+body {
+	background-color: black;
+	font-size: 24px;
+	color: white;
+}
+h1 {
+	font-family: 'Abril Fatface', cursive;
+	font-size: 50px;
+}
+p {
+	font-family: 'Archivo Narrow', sans-serif;
+	font-size: 13px;
+}
+li {
+	font-size: 20px;
+}
+.underline {
+	text-decoration: underline;
+}
+.container {
+	width: 50vw;
+	margin: 0 auto;
+	/*background-color: green;*/
+}
+#title1 {
+	width: 85%;
+	margin: 0 auto;
+	/*background-color: blue;*/
+}
+.body-type {
+	width: 50%;
+	margin: 0 auto;
+	/*background-color: red;*/
+}
+.list {
+	width: 60vw;
+	margin: 0 auto;
+	/*background-color: lightgreen;*/
+}
+
+@media only screen and (max-width: 1000px) {
+body {
+	background-color: black;
+	font-size: 24px;
+	color: white;
+}
+h1 {
+	font-family: 'Abril Fatface', cursive;
+	font-size: 50px;
+}
+p {
+	font-family: 'Archivo Narrow', sans-serif;
+	font-size: 16px;
+}
+li {
+	font-size: 24px;
+}
+.underline {
+	text-decoration: underline;
+}
+.container {
+	width: 50vw;
+	/*background-color: green;*/
+}
+#title1 {
+	width: 100%;
+	/*background-color: blue;*/
+}
+.body-type {
+	width: 80%;
+	/*background-color: red;*/
+}
+.list {
+	width: 120vw;
+	/*background-color: lightgreen;*/
+}
+}
+
+@media only screen and (max-width: 600px) {
+body {
+	background-color: black;
+	font-size: 24px;
+	color: white;
+}
+h1 {
+	font-family: 'Abril Fatface', cursive;
+	font-size: 50px;
+}
+p {
+	font-family: 'Archivo Narrow', sans-serif;
+	font-size: 18px;
+	letter-spacing: 0.5px;
+}
+li {
+	font-size: 22px;
+}
+.underline {
+	text-decoration: underline;
+}
+.container {
+	width: 50vw;
+	/*background-color: green;*/
+}
+#title1 {
+	width: 150%;
+	/*background-color: blue;*/
+}
+.body-type {
+	width: 100%;
+	/*background-color: red;*/
+}
+.list {
+	width: 120vw;
+	/*background-color: lightgreen;*/
+}
+}
