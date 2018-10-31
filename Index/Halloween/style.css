@@ -1,0 +1,147 @@
+body {
+	background-color: black;
+}
+.head {
+	border-radius: 50%;
+	width: 400px;
+	height: 400px;
+	background-color: #f36500;
+	position: relative;
+	margin: auto;
+	top: 100px;
+	z-index: 4;
+}
+.leye {
+	border-radius: 45%;
+	width: 100px;
+	height: 100px;
+	background-color: #df4300;
+	position: relative;
+	left: 30px;
+	top: 150px;
+}
+.lieye {
+	border-radius: 50%;
+	width: 50px;
+	height: 50px;
+	background-color: #f36500;
+}
+.reye {
+	border-radius: 45%;
+	width: 100px;
+	height: 100px;
+	background-color: #df4300;
+	position: relative;
+	left: 210px;
+	top: 50px;
+}
+.rieye {
+	border-radius: 50%;
+	width: 50px;
+	height: 50px;
+	background-color: #f36500;
+}
+.body {
+	border-radius: 10%;
+	width: 400px;
+	height: 300px;
+	background-color: white;
+	position: relative;
+	left: 800px;
+	top: ;
+	z-index: 3;
+}
+.pants {
+	border-radius: 10%;
+	width: 350px;
+	height: 100px;
+	background-color: red;
+	position: relative;
+	left: 825px;
+	top: -50px;
+	z-index: 2;
+}
+.smile {
+	width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    box-shadow: 5px 45px #df4300;
+    position: relative;
+    top: 25px;
+    left: 140px;
+}
+.lleg {
+	border-radius: 20%;
+	background-color: red;
+	width: 50px;
+	height: 100px;
+	position: absolute;
+	left: 300px;
+	top: 70px;
+}
+.rleg {
+	border-radius: 20%;
+	background-color: red;
+	width: 50px;
+	height: 100px;
+	position: absolute;
+	left: 1px;
+	top: 70px;
+}
+.hood {
+	border-radius: 50%;
+	background-color: white;
+	width: 505px;
+	height: 510px;
+	position: relative;
+	top: -350px;
+	left: -120px;
+}
+.rarm {
+	background-color: #f36500;
+	text-shadow: 2px 2px;
+	border-radius: 10%;
+	width: 80px;
+	height: 150px;
+	position: relative;
+	top: -400px;
+	left: 250px;
+}
+.larm {
+	background-color: #f36500;
+	text-shadow: 2px 2px;
+	border-radius: 10%;
+	width: 80px;
+	height: 150px;
+	position: relative;
+	top: -550px;
+	left: 30px;
+}
+.shadow {
+	background-color: grey;
+	border-radius: 50%;
+	width: 1000px;
+	height: 50px;
+	position: absolute;
+	top: 800px;
+	left: 480px;
+}
+/*#tail {
+      position: relative;
+      left: 200px;
+      padding: 12px;
+      margin-bottom: 6px;
+      height: 60px;
+      width: 200px;
+    }
+    #tail:after {
+      content: '';
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+      width: 50%;
+      background: #f36500;
+      transform: skew(0deg, -6deg);
+      z-index: 1;
+    }*/
