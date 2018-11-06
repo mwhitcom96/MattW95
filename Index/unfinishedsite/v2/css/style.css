@@ -1,5 +1,6 @@
 body {
-
+	padding: 0 auto;
+	margin: 0 auto;
 }
 h1 {
 	font-family: 'Nunito', sans-serif;
@@ -79,7 +80,7 @@ div {
 }
 .mid {
 	width: 2500px;
-	height: 3600px;
+	height: 3630px;
 	background-color: grey;
 }
 .mmidl {
@@ -91,7 +92,7 @@ div {
 }
 .mmidr {
 	width: 45vw;
-	height: 3600px;
+	height: 3630px;
 	padding: 2px;
 	background-color: orange;
 	border: 2px solid white;
