@@ -1,0 +1,79 @@
+body {
+	margin: 0 auto;
+}
+h1 {
+	text-align: center;
+	font-family: 'Fahkwang', sans-serif;
+	font-size: 4em;
+}
+h2, h3, h4, h5, h6 {
+	text-align: center;
+	font-variant: small-caps;
+	font-family: 'Istok Web', sans-serif;
+	font-size: 2em;
+}
+h6 {
+	color: white;
+}
+.moveITR {
+	right: 0;
+}
+.moveITL {
+	left: 0;
+}
+.box {
+	width: 100vw;
+	height: 100vh;
+}
+.header {
+	position: absolute;
+
+}
+.firstBox {
+	position: fixed;
+	transition: all 2s ease;
+	left: -100%;
+	top: 0;
+}
+.secondBox {
+	position: fixed;
+	transition: all 2s ease;
+	right: -100%;
+	top: 0;
+}
+.thirdBox {
+	position: fixed;
+	transition: all 2s ease;
+	left: -100%;
+	top: 0;
+}
+.forthBox {
+	position: fixed;
+	transition: all 2s ease;
+	right: -100%;
+	top: 0;
+}
+.fifthBox {
+	position: fixed;
+	transition: all 2s ease;
+	left: -100%;
+	top: 0;
+}
+.greenBG {
+	background-color: green;
+}
+.orangeBG {
+	background-color: orange;
+}
+.redBG {
+	background-color: tomato;
+}
+.yellowBG {
+	background-color: yellow;
+}
+.blackBG {
+	background-color: black;
+}
+.jqClick, .jqHover {
+	cursor: pointer;
+}
